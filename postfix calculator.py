@@ -86,8 +86,7 @@ def calculator_function(*args): #계산하는 함수
 
             else:
                 continue
-    return postfix
-
+    
 
 
 
